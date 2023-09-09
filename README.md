@@ -16,6 +16,6 @@ About Me
 📫 Connect with me on Linkedln https://www.linkedin.com/in/manish-mahawar-a99865b8/
                       Kaggle   https://www.kaggle.com/manishmahawa/code
 
-⚡ **Also worked on Linux, PL/SQL || Power BI || Tableau || Oracle Erp ( Procurement/ SupplyChain), AP/ AR/GL ( Financial Analysis) || Project Management ( Jira / Trello) **
+⚡ **Also worked on Linux, PL/SQL || Power BI || Tableau || Oracle Erp ( Procurement/ SupplyChain), AP/ AR/GL ( Financial Analysis) || Project Management ( Jira / Trello)**
 
 	                                          **Thanks for Visiting My Profile **
