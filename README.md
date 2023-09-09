@@ -2,7 +2,7 @@
 About Me
 **Hi 👋, I'm Manish Mahawar**
 
-				**Business Manager(Data Analytics)**
+				                **Business Manager(Data Analytics)**
     
 🔭 I’m currently looking for job roles as a Data/Business Analyst || Project Business Analyst|| Business Intellegence Manager || Operation Manager 
 
