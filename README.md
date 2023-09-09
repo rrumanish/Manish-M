@@ -18,4 +18,4 @@ About Me
 
 ⚡ Also worked on Linux, PL/SQL || Power BI || Tableau || Oracle Erp ( Procurement/ SupplyChain), AP/ AR/GL ( Financial Analysis) || Project Management ( Jira / Trello) 
 
-	**Thanks for Visiting My Profile **
+	                                          **Thanks for Visiting My Profile **
